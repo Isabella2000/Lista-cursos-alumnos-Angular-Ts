@@ -1,4 +1,4 @@
-# Lista-cursos-alumnos-Angular-Ts
+# Proyecto Listas en Angular y Typescript
 Proyecto básico de Angular de una Lista de cursos y alumnos con Typescript, para entender mas sobre interfaces modelos y clases Poo 
 
 ## Comandos
